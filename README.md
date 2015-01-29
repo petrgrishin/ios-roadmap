@@ -8,4 +8,4 @@
 - наличие синхронизации пользовательских данных;
 
 ### 1. TODO
-- In-App Purchase, icon set
+- In-App Purchase: extend icon set, color set
