@@ -10,4 +10,9 @@
 
 ### 1. TODO
 Дата проведения: 21 февраля 2015 
-- In-App Purchase: extend icon set, color set
+- In-App Purchase: extend icon set, color set;
+
+### 2. Password manager
+- AES-256 encryption;
+- password generator;
+- secure notes and files;
