@@ -8,7 +8,7 @@
 - наличие синхронизации пользовательских данных;
 - локализация приложения (Английский, Китайский, Русский?);
 
-### 1. TODO
+### 1. [TODO](https://github.com/petrgrishin/todo-ios-app)
 Дата проведения: 21 февраля 2015 
 - In-App Purchase: extend icon set, color set;
 
